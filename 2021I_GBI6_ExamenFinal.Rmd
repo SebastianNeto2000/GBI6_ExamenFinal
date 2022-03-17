@@ -363,7 +363,7 @@ ggsave("C:/Users/Usuario/Desktop/examen_final/GBI6_ExamenFinal/results/regresion
 
 ```{tex}
 # Esciba aquí su intepretación
-
+#
 ```
 
 ## 3. CONTROL DE LA VERSIÓN [1 PUNTO]. Se verficará en ell repositorio de GitHub. 
