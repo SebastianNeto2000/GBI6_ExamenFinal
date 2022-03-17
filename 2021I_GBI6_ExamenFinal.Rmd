@@ -363,6 +363,8 @@ ggsave("C:/Users/Usuario/Desktop/examen_final/GBI6_ExamenFinal/results/regresion
 
 ```{tex}
 # Esciba aquí su intepretación
+# BOXPLOT3:
+# Se puuede ver que el nivel de expresión del gen LUSC está por encima de la media, lo que pudiera sugerir una sobreexpresión genética
 #
 ```
 
