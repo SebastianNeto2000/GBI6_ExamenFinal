@@ -351,7 +351,7 @@ graficos_cancer <- expresion_gen_reg("GATA3")
 
 graficos_cancer[[5]][[2]]
 
-ggsave("C:/Users/Usuario/Desktop/examen_final/GBI6_ExamenFinal/results/regresion11.pdf", width = 6, height = 8, dpi = 300)
+ggsave("C:/Users/Usuario/Desktop/examen_final/GBI6_ExamenFinal/results/regresion11.pdf", width = 5, height = 9, dpi = 300)
 
 
 
