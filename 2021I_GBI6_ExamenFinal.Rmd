@@ -134,7 +134,7 @@ descr(cancer_de_mama) %>% tab_df(title = "Estadistica descriptiva del cancer de 
 
 ```{tex}
 # Escriba aquí su interpretación 
-
+# No sabría describir estos resultados
 
 ```
 
