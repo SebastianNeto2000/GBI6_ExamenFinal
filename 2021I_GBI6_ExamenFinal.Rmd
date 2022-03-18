@@ -134,8 +134,8 @@ descr(cancer_de_mama) %>% tab_df(title = "Estadistica descriptiva del cancer de 
 
 ```{tex}
 # Escriba aquí su interpretación 
-# No sabría describir estos resultados
-
+# En la tabla se puede ver que los genes ESR1 y MUC1 son los que más se expresan,
+# por otro lado los genes GATA3 y XBP1 son los que menor nivel de expresión poseen.
 ```
 
 
